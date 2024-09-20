@@ -7,7 +7,7 @@
 
   <h3>Projeto:</h3>
 
-  <img>
+  <img src="./src/assets/BoardingPass-APP.png" width="200px">
   
   <h3>Tecnologias: </h3>
 
