@@ -1,15 +1,15 @@
 <article>
   <h1 align='center'>Boarding Pass UI</h1>
 
-  <h3>Sobre:</h3>
+  <h3>About:</h3>
 
-  <p>Projeto feito apenas para continuar estudos com o React Native</p>
+  <p>Project made solely to continue studies with React Native</p>
 
-  <h3>Projeto:</h3>
+  <h3>Project:</h3>
 
   <img src="./src/assets/BoardingPass-APP.png" width="200px">
   
-  <h3>Tecnologias: </h3>
+  <h3>Technologies:</h3>
 
   <ul>
     <li>Expo</li>
